@@ -3,11 +3,11 @@
 The project centers around creating a dynamic, interactive dashboard for analyzing coffee sales data over time. The data is organized into an Order Table, Customer Table, and Products Table. The final result is an interactive dashboard with various filters and visualizations to analyze sales by different metrics.
 
 # Key Excel Functions Used
-XLOOKUP
-INDEX & MATCH
-Pivot Tables
-Pivot Charts
-Slicers
+XLOOKUP,
+INDEX & MATCH,
+Pivot Tables,
+Pivot Charts,
+Slicers and
 Timeline Filter
 
 # Key Features and Tools Used
